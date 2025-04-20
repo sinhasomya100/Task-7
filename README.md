@@ -31,10 +31,7 @@ This project demonstrates how to use **Python**, **SQLite**, **SQL queries**, an
 
 ## 📑 Steps Performed in the Notebook
 
-1. Connected to SQLite database using:
-```python
-conn = sqlite3.connect("sales_data.db")
-
+1. Connected to SQLite database using Python
 2.Executed SQL query to fetch product-wise total quantity and revenue
 3.Loaded SQL result into pandas
 4.Plotted a bar chart using matplotlib
