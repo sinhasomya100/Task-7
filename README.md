@@ -17,6 +17,7 @@ This project demonstrates how to use **Python**, **SQLite**, **SQL queries**, an
 - Visualized results using **Matplotlib bar chart**
 - Displayed summary in a neat table using **pandas**
 
+
 ---
 
 ## 📦 Technologies Used
