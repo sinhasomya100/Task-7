@@ -31,21 +31,21 @@ This project demonstrates how to use **Python**, **SQLite**, **SQL queries**, an
 
 ## 📑 Steps Performed in the Notebook
 
-1. Connected to SQLite database using Python
-2.Executed SQL query to fetch product-wise total quantity and revenue
-3.Loaded SQL result into pandas
-4.Plotted a bar chart using matplotlib
+- Connected to SQLite database using Python
+- Executed SQL query to fetch product-wise total quantity and revenue
+-Loaded SQL result into pandas
+-Plotted a bar chart using matplotlib
 
 💡 What I Learnt
-Connecting Python with SQLite databases
+-Connecting Python with SQLite databases
 
-Writing and running SQL queries inside Python
+-Writing and running SQL queries inside Python
 
-Performing aggregation with GROUP BY
+-Performing aggregation with GROUP BY
 
-Using pandas for tabular data handling
+-Using pandas for tabular data handling
 
-Creating simple bar charts with matplotlib
+-Creating simple bar charts with matplotlib
 
 📬 Contact
 If you have any questions, feel free to reach out:
