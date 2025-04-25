@@ -12,7 +12,7 @@ This project demonstrates how to use **Python**, **SQLite**, **SQL queries**, an
 | `Task_7_Sales_Analysis_ipynb.ipynb`   | Jupiter Notebook file on google collab        |
 | `TASK 7th.pdf`                        | Step by Step Summary with ouputs           |
 | `Interview Q/A`                       | Interview Q/A |
-| `README.md`                           | Overview and documentation of the project +Interview Q/A    |
+| `README.md`                           | Overview and documentation of the project    |
 
 
 ---
@@ -65,6 +65,8 @@ This project demonstrates how to use **Python**, **SQLite**, **SQL queries**, an
 ![image](https://github.com/user-attachments/assets/b71e3080-a23a-43e3-867e-effe0f662789)
 
 --Summary table
+
+
 ![image](https://github.com/user-attachments/assets/2370c12e-e36c-4162-8366-2372a4688958)
 
 
