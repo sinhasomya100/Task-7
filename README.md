@@ -81,7 +81,7 @@ This project demonstrates how to use **Python**, **SQLite**, **SQL queries**, an
 
 -Using pandas for tabular data handling
 
--Creating simple bar charts with matplotlib
+
 ---
 
 📬 Contact
