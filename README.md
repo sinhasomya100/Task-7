@@ -13,6 +13,7 @@ This project demonstrates how to use **Python**, **SQLite**, **SQL queries**, an
 | `TASK 7th.pdf`                        | Step by Step Summary with ouputs           |
 | `Interview Q/A`                       | Interview Q/A |
 | `README.md`                           | Overview and documentation of the project    |
+| `png2pdf.pdf`                         |Summary of Task 7 using Canva  | 
 
 
 ---
@@ -86,5 +87,5 @@ This project demonstrates how to use **Python**, **SQLite**, **SQL queries**, an
 
 📬 Contact
 If you have any questions, feel free to reach out:
-www.linkedin.com/in/somyasinha100
+https://www.linkedin.com/posts/activity-7321762537123782656-d6jB?utm_source=share&utm_medium=member_desktop&rcm=ACoAADazOB0BRuax1fAhu4L7QyodlFZtYz-UgyU
 
